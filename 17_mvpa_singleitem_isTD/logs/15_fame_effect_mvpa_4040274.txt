@@ -1,0 +1,15 @@
+/raid-18/LS/bowman2/katzer3/scripts/mvpa_results/17_singleitem_isTD/00_fame_effect
+Starting Duration: 1
+...starting to decode: 1
+......starting ROI: b_lo
+.........starting 301
+Traceback (most recent call last):
+  File "fame_effect_class.py", line 104, in <module>
+    betan,runs,tasks,picidx,isfamous,ismanmade = loadtxt(exponsetdir+'/'+sbj+'/si_pattern_info.txt',unpack=1)
+  File "/raid-18/LS/bowman2/conda/envs/dicat_RSA/lib/python2.7/site-packages/numpy/lib/npyio.py", line 1141, in loadtxt
+    for x in read_data(_loadtxt_chunksize):
+  File "/raid-18/LS/bowman2/conda/envs/dicat_RSA/lib/python2.7/site-packages/numpy/lib/npyio.py", line 1068, in read_data
+    items = [conv(val) for (conv, val) in zip(converters, vals)]
+  File "/raid-18/LS/bowman2/conda/envs/dicat_RSA/lib/python2.7/site-packages/numpy/lib/npyio.py", line 775, in floatconv
+    return float(x)
+ValueError: could not convert string to float: TRUE

@@ -1,0 +1,14 @@
+/raid-18/LS/bowman2/katzer3/scripts/mvpa_results/17_singleitem_isTD/00_fame_effect
+Starting Duration: 1
+...starting to decode: 1
+......starting ROI: b_lo
+.........starting 301
+/raid-18/LS/bowman2/katzer3/sub-301/func/singleitem_isTD/betas_all_dur1.nii.gz
+WARNING: Detected incorrect (nan) scl_ fields. Resetting to scl_slope=1.0 and scl_inter=0.0
+ * Please note: warnings are printed only once, but underlying problem might occur many times *
+Traceback (most recent call last):
+  File "fame_effect_class.py", line 110, in <module>
+    expds.sa['chunks'] = runs
+  File "/raid-18/LS/bowman2/conda/envs/dicat_RSA/lib/python2.7/site-packages/mvpa2/base/collections.py", line 599, in __setitem__
+    str(self)))
+ValueError: Collectable 'chunks' with length [288] does not match the required length [96] of collection '<SampleAttributesCollection: time_coords,time_indices>'.
