@@ -1,0 +1,188 @@
+/raid-18/LS/bowman2/conda/envs/dicat_RSA/lib/python2.7/site-packages/mvpa2/base/hdf5.py:40: H5pyDeprecationWarning: The h5py.highlevel module is deprecated, code should import directly from h5py, e.g. 'from h5py import File'.
+  import h5py.highlevel  # >= 2.8.0, https://github.com/h5py/h5py/issues/1063
+/raid-18/LS/bowman2/conda/envs/dicat_RSA/lib/python2.7/site-packages/mvpa2/testing/tools.py:81: DeprecationWarning: Importing from numpy.testing.decorators is deprecated since numpy 1.15.0, import from numpy.testing instead.
+  from numpy.testing.decorators import skipif
+Computing dsm for b_ahip for subject: 301
+Starting 301: 20:32:13
+WARNING: Detected incorrect (nan) scl_ fields. Resetting to scl_slope=1.0 and scl_inter=0.0
+ * Please note: warnings are printed only once, but underlying problem might occur many times *
+Computing dsm for b_ahip for subject: 302
+Starting 302: 20:32:20
+Computing dsm for b_ahip for subject: 304
+Starting 304: 20:32:28
+Computing dsm for b_ahip for subject: 305
+Starting 305: 20:32:36
+Computing dsm for b_ahip for subject: 307
+Starting 307: 20:32:44
+Computing dsm for b_ahip for subject: 308
+Starting 308: 20:32:52
+Computing dsm for b_ahip for subject: 309
+Starting 309: 20:33:00
+Computing dsm for b_ahip for subject: 310
+Starting 310: 20:33:08
+Computing dsm for b_ahip for subject: 311
+Starting 311: 20:33:15
+Computing dsm for b_ahip for subject: 312
+Starting 312: 20:33:22
+Computing dsm for b_ahip for subject: 313
+Starting 313: 20:33:29
+Computing dsm for b_phip for subject: 301
+Starting 301: 20:33:36
+Computing dsm for b_phip for subject: 302
+Starting 302: 20:33:43
+Computing dsm for b_phip for subject: 304
+Starting 304: 20:33:50
+Computing dsm for b_phip for subject: 305
+Starting 305: 20:33:57
+Computing dsm for b_phip for subject: 307
+Starting 307: 20:34:04
+Computing dsm for b_phip for subject: 308
+Starting 308: 20:34:11
+Computing dsm for b_phip for subject: 309
+Starting 309: 20:34:18
+Computing dsm for b_phip for subject: 310
+Starting 310: 20:34:25
+Computing dsm for b_phip for subject: 311
+Starting 311: 20:34:32
+Computing dsm for b_phip for subject: 312
+Starting 312: 20:34:39
+Computing dsm for b_phip for subject: 313
+Starting 313: 20:34:46
+Computing dsm for b_mofc for subject: 301
+Starting 301: 20:34:53
+Computing dsm for b_mofc for subject: 302
+Starting 302: 20:35:00
+Computing dsm for b_mofc for subject: 304
+Starting 304: 20:35:06
+Computing dsm for b_mofc for subject: 305
+Starting 305: 20:35:13
+Computing dsm for b_mofc for subject: 307
+Starting 307: 20:35:20
+Computing dsm for b_mofc for subject: 308
+Starting 308: 20:35:27
+Computing dsm for b_mofc for subject: 309
+Starting 309: 20:35:34
+Computing dsm for b_mofc for subject: 310
+Starting 310: 20:35:41
+Computing dsm for b_mofc for subject: 311
+Starting 311: 20:35:48
+Computing dsm for b_mofc for subject: 312
+Starting 312: 20:35:55
+Computing dsm for b_mofc for subject: 313
+Starting 313: 20:36:02
+Computing dsm for b_ifg for subject: 301
+Starting 301: 20:36:09
+Computing dsm for b_ifg for subject: 302
+Starting 302: 20:36:16
+Computing dsm for b_ifg for subject: 304
+Starting 304: 20:36:23
+Computing dsm for b_ifg for subject: 305
+Starting 305: 20:36:30
+Computing dsm for b_ifg for subject: 307
+Starting 307: 20:36:36
+Computing dsm for b_ifg for subject: 308
+Starting 308: 20:36:44
+Computing dsm for b_ifg for subject: 309
+Starting 309: 20:36:50
+Computing dsm for b_ifg for subject: 310
+Starting 310: 20:36:57
+Computing dsm for b_ifg for subject: 311
+Starting 311: 20:37:04
+Computing dsm for b_ifg for subject: 312
+Starting 312: 20:37:11
+Computing dsm for b_ifg for subject: 313
+Starting 313: 20:37:18
+Computing dsm for b_latpar for subject: 301
+Starting 301: 20:37:25
+Computing dsm for b_latpar for subject: 302
+Starting 302: 20:37:32
+Computing dsm for b_latpar for subject: 304
+Starting 304: 20:37:39
+Computing dsm for b_latpar for subject: 305
+Starting 305: 20:37:46
+Computing dsm for b_latpar for subject: 307
+Starting 307: 20:37:53
+Computing dsm for b_latpar for subject: 308
+Starting 308: 20:38:00
+Computing dsm for b_latpar for subject: 309
+Starting 309: 20:38:07
+Computing dsm for b_latpar for subject: 310
+Starting 310: 20:38:14
+Computing dsm for b_latpar for subject: 311
+Starting 311: 20:38:21
+Computing dsm for b_latpar for subject: 312
+Starting 312: 20:38:28
+Computing dsm for b_latpar for subject: 313
+Starting 313: 20:38:35
+Computing dsm for b_phc for subject: 301
+Starting 301: 20:38:42
+Computing dsm for b_phc for subject: 302
+Starting 302: 20:38:49
+Computing dsm for b_phc for subject: 304
+Starting 304: 20:38:56
+Computing dsm for b_phc for subject: 305
+Starting 305: 20:39:04
+Computing dsm for b_phc for subject: 307
+Starting 307: 20:39:11
+Computing dsm for b_phc for subject: 308
+Starting 308: 20:39:18
+Computing dsm for b_phc for subject: 309
+Starting 309: 20:39:25
+Computing dsm for b_phc for subject: 310
+Starting 310: 20:39:32
+Computing dsm for b_phc for subject: 311
+Starting 311: 20:39:38
+Computing dsm for b_phc for subject: 312
+Starting 312: 20:39:45
+Computing dsm for b_phc for subject: 313
+Starting 313: 20:39:52
+Computing dsm for b_it for subject: 301
+Starting 301: 20:39:59
+Computing dsm for b_it for subject: 302
+Starting 302: 20:40:06
+Computing dsm for b_it for subject: 304
+Starting 304: 20:40:13
+Computing dsm for b_it for subject: 305
+Starting 305: 20:40:20
+Computing dsm for b_it for subject: 307
+Starting 307: 20:40:27
+Computing dsm for b_it for subject: 308
+Starting 308: 20:40:34
+Computing dsm for b_it for subject: 309
+Starting 309: 20:40:41
+Computing dsm for b_it for subject: 310
+Starting 310: 20:40:48
+Computing dsm for b_it for subject: 311
+Starting 311: 20:40:55
+Computing dsm for b_it for subject: 312
+Starting 312: 20:41:02
+Computing dsm for b_it for subject: 313
+Starting 313: 20:41:09
+Computing dsm for b_ahip for subject: 301
+Starting 301: 20:41:16
+Computing dsm for b_ahip for subject: 302
+Starting 302: 20:41:23
+Computing dsm for b_ahip for subject: 304
+Starting 304: 20:41:30
+Computing dsm for b_ahip for subject: 305
+Starting 305: 20:41:37
+Computing dsm for b_ahip for subject: 307
+Starting 307: 20:41:44
+Computing dsm for b_ahip for subject: 308
+Starting 308: 20:41:51
+Computing dsm for b_ahip for subject: 309
+Starting 309: 20:41:57
+Computing dsm for b_ahip for subject: 310
+Starting 310: 20:42:04
+Traceback (most recent call last):
+  File "katzer_rsa.py", line 85, in <module>
+    expds = fmri_dataset(betas,mask=maskdir+mask+'.nii.gz')
+  File "/raid-18/LS/bowman2/conda/envs/dicat_RSA/lib/python2.7/site-packages/mvpa2/datasets/mri.py", line 254, in fmri_dataset
+    imgdata, imghdr, img = _load_anyimg(samples, ensure=True, enforce_dim=4)
+  File "/raid-18/LS/bowman2/conda/envs/dicat_RSA/lib/python2.7/site-packages/mvpa2/datasets/mri.py", line 396, in _load_anyimg
+    data = _img2data(src)
+  File "/raid-18/LS/bowman2/conda/envs/dicat_RSA/lib/python2.7/site-packages/mvpa2/datasets/mri.py", line 72, in _img2data
+    img = nibabel.load(src)
+  File "/raid-18/LS/bowman2/conda/envs/dicat_RSA/lib/python2.7/site-packages/nibabel/loadsave.py", line 42, in load
+    raise FileNotFoundError("No such file or no access: '%s'" % filename)
+nibabel.py3k.FileNotFoundError: No such file or no access: '/raid-18/LS/bowman2/katzer3/sub-310/func/singleitem_isTD//betas_all_dur4.nii.gz'
