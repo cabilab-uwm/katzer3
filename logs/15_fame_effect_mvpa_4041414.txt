@@ -1,0 +1,185 @@
+/raid-18/LS/bowman2/katzer3/scripts/mvpa_results/15_singletrial_isTD/00_fame_effect
+Starting Duration: 1
+...starting to decode: 1
+......starting ROI: b_lo
+.........starting 301
+WARNING: Detected incorrect (nan) scl_ fields. Resetting to scl_slope=1.0 and scl_inter=0.0
+ * Please note: warnings are printed only once, but underlying problem might occur many times *
+/raid-18/LS/bowman2/conda/envs/dicat_RSA/lib/python2.7/site-packages/mvpa2/measures/anova.py:117: RuntimeWarning: invalid value encountered in divide
+  f = msb / msw
+/raid-18/LS/bowman2/conda/envs/dicat_RSA/lib/python2.7/site-packages/mvpa2/misc/attrmap.py:153: FutureWarning: Conversion of the second argument of issubdtype from `str` to `str` is deprecated. In future, it will be treated as `np.string_ == np.dtype(str).type`.
+  if not np.issubdtype(attr.dtype, str) and not self.mapnumeric:
+/raid-18/LS/bowman2/conda/envs/dicat_RSA/lib/python2.7/site-packages/mvpa2/clfs/libsvmc/svm.py:215: FutureWarning: Conversion of the second argument of issubdtype from `'c'` to `str` is deprecated. In future, it will be treated as `np.string_ == np.dtype('c').type`.
+  if ( np.issubdtype(self.ca.trained_targets.dtype, 'c') or
+/raid-18/LS/bowman2/conda/envs/dicat_RSA/lib/python2.7/site-packages/mvpa2/clfs/libsvmc/svm.py:216: FutureWarning: Conversion of the second argument of issubdtype from `'U'` to `unicode` is deprecated. In future, it will be treated as `np.unicode_ == np.dtype('U').type`.
+  np.issubdtype(self.ca.trained_targets.dtype, 'U') ):
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_pfus
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_phc
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_it
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_ahip
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_phip
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_hip
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+...starting to decode: 0
+......starting ROI: b_lo
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_pfus
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_phc
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_it
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_ahip
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_phip
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_hip
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+Starting Duration: 4
+...starting to decode: 1
+......starting ROI: b_lo
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_pfus
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_phc
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_it
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_ahip
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_phip
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_hip
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+...starting to decode: 0
+......starting ROI: b_lo
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_pfus
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_phc
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_it
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_ahip
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_phip
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307
+......starting ROI: b_hip
+.........starting 301
+.........starting 302
+.........starting 304
+.........starting 305
+.........starting 307

@@ -1,0 +1,6 @@
+/raid-18/LS/bowman2/katzer3/scripts/mvpa_results/15_singletrial_isTD/fame_effect
+Starting Duration: 1
+Traceback (most recent call last):
+  File "fame_effect_class.py", line 68, in <module>
+    print('...starting to decode: '+thistrialset)
+TypeError: cannot concatenate 'str' and 'int' objects

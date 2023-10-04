@@ -1,0 +1,4 @@
+  File "fame_effect_class.py", line 69
+    for mask in masks:
+                     ^
+SyntaxError: invalid syntax
